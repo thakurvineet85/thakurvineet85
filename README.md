@@ -82,9 +82,9 @@ I specialize in modern JavaScript ecosystems, cloud infrastructure, and DevOps p
 ## 📫 Connect With Me
 
 <p>
-  💼 <b>Upwork:</b> https://www.upwork.com/freelancers/thakurvineet85 <br/>
   📧 <b>LinkedIn:</b> https://www.linkedin.com/in/thakurvineet85
-</p>
+  💼 <b>Upwork:</b> https://www.upwork.com/freelancers/thakurvineet85 <br/>
+  </p>
 
 ---
 
